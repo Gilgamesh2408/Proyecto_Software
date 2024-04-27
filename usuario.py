@@ -1,3 +1,4 @@
+from actividad import Actividad
 class Usuario:
     def __init__(self, id, nombre, contraseña):
         self.id = id
